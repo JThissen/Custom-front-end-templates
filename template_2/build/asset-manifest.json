@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Custom-front-end-templates/static/css/main.2b121a84.chunk.css",
+    "main.js": "/Custom-front-end-templates/static/js/main.4297329f.chunk.js",
+    "main.js.map": "/Custom-front-end-templates/static/js/main.4297329f.chunk.js.map",
+    "runtime-main.js": "/Custom-front-end-templates/static/js/runtime-main.c9d7024d.js",
+    "runtime-main.js.map": "/Custom-front-end-templates/static/js/runtime-main.c9d7024d.js.map",
+    "static/js/2.d7715fee.chunk.js": "/Custom-front-end-templates/static/js/2.d7715fee.chunk.js",
+    "static/js/2.d7715fee.chunk.js.map": "/Custom-front-end-templates/static/js/2.d7715fee.chunk.js.map",
+    "index.html": "/Custom-front-end-templates/index.html",
+    "precache-manifest.2de92e487ecb08f703af563d37ada8a1.js": "/Custom-front-end-templates/precache-manifest.2de92e487ecb08f703af563d37ada8a1.js",
+    "service-worker.js": "/Custom-front-end-templates/service-worker.js",
+    "static/css/main.2b121a84.chunk.css.map": "/Custom-front-end-templates/static/css/main.2b121a84.chunk.css.map",
+    "static/media/Content.css": "/Custom-front-end-templates/static/media/footer.e4049cd8.svg",
+    "static/media/caret-down-solid.397d03b8.svg": "/Custom-front-end-templates/static/media/caret-down-solid.397d03b8.svg",
+    "static/media/facebook-f-brands.53757d93.svg": "/Custom-front-end-templates/static/media/facebook-f-brands.53757d93.svg",
+    "static/media/img-1.6e95056a.svg": "/Custom-front-end-templates/static/media/img-1.6e95056a.svg",
+    "static/media/img-2.de5dacbe.svg": "/Custom-front-end-templates/static/media/img-2.de5dacbe.svg",
+    "static/media/img-3.abb3a11f.svg": "/Custom-front-end-templates/static/media/img-3.abb3a11f.svg",
+    "static/media/instagram-brands.e75317fa.svg": "/Custom-front-end-templates/static/media/instagram-brands.e75317fa.svg",
+    "static/media/logo.f91e64b7.svg": "/Custom-front-end-templates/static/media/logo.f91e64b7.svg",
+    "static/media/twitter-brands.6620c8ae.svg": "/Custom-front-end-templates/static/media/twitter-brands.6620c8ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9d7024d.js",
+    "static/js/2.d7715fee.chunk.js",
+    "static/css/main.2b121a84.chunk.css",
+    "static/js/main.4297329f.chunk.js"
+  ]
+}
