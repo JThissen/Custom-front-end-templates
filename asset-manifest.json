@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Custom-front-end-templates/static/css/main.b1b2d6e1.chunk.css",
+    "main.css": "/Custom-front-end-templates/static/css/main.853fa803.chunk.css",
     "main.js": "/Custom-front-end-templates/static/js/main.effe6ed8.chunk.js",
     "main.js.map": "/Custom-front-end-templates/static/js/main.effe6ed8.chunk.js.map",
     "runtime-main.js": "/Custom-front-end-templates/static/js/runtime-main.c9d7024d.js",
@@ -8,9 +8,9 @@
     "static/js/2.055697b5.chunk.js": "/Custom-front-end-templates/static/js/2.055697b5.chunk.js",
     "static/js/2.055697b5.chunk.js.map": "/Custom-front-end-templates/static/js/2.055697b5.chunk.js.map",
     "index.html": "/Custom-front-end-templates/index.html",
-    "precache-manifest.32ac9e11203c1d572ac189ff49a3a099.js": "/Custom-front-end-templates/precache-manifest.32ac9e11203c1d572ac189ff49a3a099.js",
+    "precache-manifest.fd6a03edce48476ef70a2b71b3a21232.js": "/Custom-front-end-templates/precache-manifest.fd6a03edce48476ef70a2b71b3a21232.js",
     "service-worker.js": "/Custom-front-end-templates/service-worker.js",
-    "static/css/main.b1b2d6e1.chunk.css.map": "/Custom-front-end-templates/static/css/main.b1b2d6e1.chunk.css.map",
+    "static/css/main.853fa803.chunk.css.map": "/Custom-front-end-templates/static/css/main.853fa803.chunk.css.map",
     "static/media/app-calendar-min.jpg": "/Custom-front-end-templates/static/media/app-calendar-min.e30d99b9.jpg",
     "static/media/app-home-min.jpg": "/Custom-front-end-templates/static/media/app-home-min.40530a28.jpg",
     "static/media/app-login-min.jpg": "/Custom-front-end-templates/static/media/app-login-min.c96c930e.jpg",
@@ -42,7 +42,7 @@
   "entrypoints": [
     "static/js/runtime-main.c9d7024d.js",
     "static/js/2.055697b5.chunk.js",
-    "static/css/main.b1b2d6e1.chunk.css",
+    "static/css/main.853fa803.chunk.css",
     "static/js/main.effe6ed8.chunk.js"
   ]
 }
