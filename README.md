@@ -1,7 +1,7 @@
 ##### November 3, 2019
 
 # Custom front end templates
-A collection of responsive templates I made from scratch in order to improve my front end skills. Made using JS/CSS/HTML and React. No jQuery.
+A collection of responsive single-page templates I made from scratch in order to improve my front end skills. Made using JS/CSS/HTML and React. No jQuery.
 
 ## Templates
 ##### Template 1
