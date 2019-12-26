@@ -7,9 +7,13 @@ A collection of responsive single-page templates I made from scratch in order to
 ##### Template 1
 - Source code: [src](https://github.com/JThissen/Custom-front-end-templates/tree/master/template_1/src)
 - Hosted on Github pages: https://jthissen.github.io/Custom-front-end-templates/
+- Isometric art by  https://www.freepik.com/pikisuperstar
 
 ##### Template 2
 - Source code: [src](https://github.com/JThissen/Custom-front-end-templates/tree/master/template_2/src)
+- Isometric art by  https://www.freepik.com/fullvector
+
+##### Icons by https://fontawesome.com/
 
 ## Folder structure
 ```
@@ -44,8 +48,3 @@ A collection of responsive single-page templates I made from scratch in order to
 
 ### Template 2
 ![](template_2/screenshots/screenshot_template_2.png)
-
-
-##### Template 1 isometric art by  https://www.freepik.com/pikisuperstar
-##### Template 2 isometric art by  https://www.freepik.com/fullvector
-##### Icons by https://fontawesome.com/
